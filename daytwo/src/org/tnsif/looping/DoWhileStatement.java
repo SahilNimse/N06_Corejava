@@ -8,7 +8,7 @@ public class DoWhileStatement {
 			System.out.println("The Value Of X Is:"+x);
 			x++;
 			
-		}while(x<100);
+		}while(x<50);
 
 	}
 
