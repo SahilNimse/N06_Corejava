@@ -4,13 +4,12 @@ public class StaticBlockExecutor {
 	
 	String str;
 	static float salary;
-	/* static block is used to initiate static variable and we can't
-	 * initialize any non static variable inside
-	 * the static block*/
+/* static block is used to initiate static variable and we can't
+initialize any non static variable inside the static block*/
 	
 	static {
 		salary=67689.86f;
-		//str="BKC";
+		//str ="BKC";
 	}
 	static void print()
 	{
